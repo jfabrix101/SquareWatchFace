@@ -1,6 +1,15 @@
 #Simple project for Android Watch Face
 
-This use a simple layout (for square watches)
+This use a simple layout (for square watches) to show how to implement an android wear clock face.
+
+*Note: Until now the official API for develop the clock face are not been released. So this can
+change in the future*.
+
+The example use the AnalogClock widget to draw a clock. This widget is automatically update at
+each minute, so should not be necessary the use of BroadcastReceiver to be notified at each minute.
+But in real clock face probably will be different TextView for hours and minute so the template
+provides this functionality.
+
 
 ##Instruction
 
@@ -52,8 +61,6 @@ of watchFace)
 
 
 ##Screenshot
-
-![Alt text](https://raw.githubusercontent.com/jfabrix101/SquareWatchFace/master/screenshot1.png?raw=true "Example")
 
 ![Screen](screenshot1.png "Screenshot")
 
