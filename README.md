@@ -4,7 +4,7 @@ This use a simple layout (for square watches)
 
 ##Instruction
 
-- Create an activity that implements  WatchFaceLifecycle.Listener (to be updated on varius state
+- Create an activity that implements `WatchFaceLifecycle.Listener` (to be updated on state changes
 of watchFace)
 
 - Use this settings in you AndroidManifest.xml
@@ -54,6 +54,11 @@ of watchFace)
 ##Screenshot
 
 ![Alt text](https://raw.githubusercontent.com/jfabrix101/SquareWatchFace/master/screenshot1.png?raw=true "Example")
+
+
+##Thanks
+
+Thanks to *Paul Blundell* to his WatchFaceLifecycle
 
 
 
