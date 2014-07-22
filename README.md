@@ -55,16 +55,17 @@ of watchFace)
 
 ![Alt text](https://raw.githubusercontent.com/jfabrix101/SquareWatchFace/master/screenshot1.png?raw=true "Example")
 
+![Screen](screenshot1.png "Screenshot")
 
 ##Thanks
 
-Thanks to *Paul Blundell* to his WatchFaceLifecycle
+Thanks to **Paul Blundell** to his WatchFaceLifecycle
 
 
 
 ##License
 
-SquareWatchFace is released under the **Apache License 2.0**
+SquareWatchFace is released under the *Apache License 2.0*
 
     Copyright 2014-2015 Fabrizio Russo (www.frusso.it)
 
